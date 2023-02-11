@@ -53,7 +53,7 @@ file
 tokenized and POS tagged. The structured answer script saved as a file is
 decoded to proper data structures with the help of metadata
 - A container (Java bean) is created to save the information of the structure. Two
-containers, one for faculty and another for a student are created.
+containers, one for faculty and another for a student are created
 - The student container is passed to the faculty container to find the similarity index
 matrix
 - The matrix is de-fuzzified using fuzzy logic and appropriate marks
