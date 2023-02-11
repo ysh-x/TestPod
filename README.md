@@ -35,26 +35,26 @@ weighted average technique from the discrete score from the fuzzy sets
 ## Application Workflow
 
 - The application is built using Apache OpenNLP, an NLP tool built for Java
-applications.
+applications
 - The major stakeholder of the application are the faculty and the
 student. The faculty feeds the question and the respective answer key to
-the application.
+the application
 - The uploaded questions and answers are processed
-respectively. 
+respectively
 - Every test has a test ID, a unique primary key to map the
-question with the answer. 
+question with the answer.
 - The questions for the test are saved in
 RDBMS. The answers are processed using the core NLP package in the
-application.
+application
 - The answer key is processed, tokenized, and POS tagged. The
 structured answer is stored in a text file along with the metadata of the
-file.
+file
 - When a student attempts the exam, the answers are processed,
 tokenized and POS tagged. The structured answer script saved as a file is
-decoded to proper data structures with the help of metadata.
+decoded to proper data structures with the help of metadata
 - A container (Java bean) is created to save the information of the structure. Two
 containers, one for faculty and another for a student are created.
 - The student container is passed to the faculty container to find the similarity index
 matrix
 - The matrix is de-fuzzified using fuzzy logic and appropriate marks
-are allowed for each question
+are allocated for each question using weighted average method
