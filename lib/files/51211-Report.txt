@@ -1,0 +1,254 @@
+oOoOOoOOo                         OooOOo.            o
+    o                             O     `O           O
+    o                   O         o      O           o
+    O                  oOo        O     .o           o
+    o     .oOo. .oOo    o         oOooOO'  .oOo. .oOoO
+    O     OooO' `Ooo.   O         o        O   o o   O
+    O     O         O   o         O        o   O O   o
+    o'    `OoO' `OoO'   `oO       o'       `OoO' `OoO'o
+____________________________________________________________
+
+Version 1.0
+
+Student report for the test ID: 51211
+
+Similarity Metrics
+
+Answer 1
+[1.0, 0.23076923]
+[0.36363637, 1.0]
+
+Answer 2
+[0.7, 0.5, 0.4]
+
+Answer 3
+[1.0, 0.33333334]
+[0.16666667, 1.0]
+
+Answer 4
+[1.0, 0.18181819]
+[0.125, 1.0]
+
+Answer 5
+[1.0, 0.25]
+[0.4, 1.0]
+
+Answer 6
+[1.0, 0.16666667, 0.4]
+[0.2, 1.0, 0.2]
+[0.4, 0.16666667, 1.0]
+
+Answer 7
+[1.0, 0.25]
+[0.1, 1.0]
+
+Answer 8
+[1.0]
+
+Answer 9
+[1.0, 0.2857143, 0.5714286]
+[0.09090909, 1.0, 0.0]
+[0.27272728, 0.0, 1.0]
+
+Answer 10
+[1.0, 0.25, 0.0]
+[0.2, 1.0, 0.0]
+[0.0, 0.0, 1.0]
+
+Answer 11
+[1.0, 0.4, 0.125]
+[0.5, 1.0, 0.125]
+[0.125, 0.1, 1.0]
+
+Answer 12
+[1.0, 0.33333334, 0.125, 0.09090909]
+[0.42857143, 1.0, 0.125, 0.09090909]
+[0.2857143, 0.16666667, 1.0, 0.18181819]
+[0.2857143, 0.16666667, 0.25, 1.0]
+
+Answer 13
+[1.0]
+
+Answer 14
+[1.0, 0.0]
+[0.0, 1.0]
+
+Answer 15
+[1.0]
+
+Answer 16
+[1.0, 0.6666667, 0.0]
+[0.23076923, 1.0, 0.0]
+[0.0, 0.0, 1.0]
+
+Answer 17
+[0.6666667]
+
+Answer 18
+[1.0, 0.6]
+[0.2857143, 1.0]
+
+Answer 19
+[1.0, 0.33333334]
+[0.11111111, 1.0]
+
+Answer 20
+[1.0]
+
+Answer 21
+[1.0, 0.2857143]
+[0.5, 1.0]
+
+Answer 22
+[1.0, 0.0625]
+[0.1, 1.0]
+
+Answer 23
+[1.0, 0.25]
+[0.11111111, 1.0]
+
+Answer 24
+[1.0]
+
+Answer 25
+[1.0]
+
+Answer 26
+[1.0, 0.33333334]
+[0.3846154, 1.0]
+
+Result Matrix
+Question	Similarity	Correctiveness	Marks Awarded
+1		1.00		1.00			3.0
+2		0.23		0.70			0.7
+3		1.00		1.00			3.0
+4		1.00		1.00			3.0
+5		1.00		1.00			3.0
+6		1.00		1.00			3.0
+7		1.00		1.00			3.0
+8		1.00		1.00			3.0
+9		1.00		1.00			3.0
+10		1.00		1.00			3.0
+11		1.00		1.00			3.0
+12		1.00		1.00			3.0
+13		1.00		1.00			3.0
+14		1.00		1.00			3.0
+15		1.00		1.00			3.0
+16		1.00		1.00			3.0
+17		0.67		0.67			2.0
+18		1.00		1.00			3.0
+19		1.00		1.00			3.0
+20		1.00		1.00			3.0
+21		1.00		1.00			3.0
+22		1.00		1.00			3.0
+23		1.00		1.00			3.0
+24		1.00		1.00			3.0
+25		1.00		1.00			3.0
+26		1.00		1.00			3.0
+		Final Score		74.7
+
+Remarks
+Answer 1
+The are no spelling errors
+The answers exactly matched the expected answer
+
+Answer 2
+The spelling error rate in the sentences are high
+The answers somewhat matched the expected answer
+
+Answer 3
+The are no spelling errors
+The answers exactly matched the expected answer
+
+Answer 4
+The are no spelling errors
+The answers exactly matched the expected answer
+
+Answer 5
+The are no spelling errors
+The answers exactly matched the expected answer
+
+Answer 6
+The are no spelling errors
+The answers exactly matched the expected answer
+
+Answer 7
+The are no spelling errors
+The answers exactly matched the expected answer
+
+Answer 8
+The are no spelling errors
+The answers exactly matched the expected answer
+
+Answer 9
+The are no spelling errors
+The answers exactly matched the expected answer
+
+Answer 10
+The are no spelling errors
+The answers exactly matched the expected answer
+
+Answer 11
+The are no spelling errors
+The answers exactly matched the expected answer
+
+Answer 12
+The are no spelling errors
+The answers exactly matched the expected answer
+
+Answer 13
+The are no spelling errors
+The answers exactly matched the expected answer
+
+Answer 14
+The are no spelling errors
+The answers exactly matched the expected answer
+
+Answer 15
+The are no spelling errors
+The answers exactly matched the expected answer
+
+Answer 16
+The are no spelling errors
+The answers exactly matched the expected answer
+
+Answer 17
+The spelling error rate in the sentences are high
+The answers are very close to the  expected answer
+
+Answer 18
+The are no spelling errors
+The answers exactly matched the expected answer
+
+Answer 19
+The are no spelling errors
+The answers exactly matched the expected answer
+
+Answer 20
+The are no spelling errors
+The answers exactly matched the expected answer
+
+Answer 21
+The are no spelling errors
+The answers exactly matched the expected answer
+
+Answer 22
+The are no spelling errors
+The answers exactly matched the expected answer
+
+Answer 23
+The are no spelling errors
+The answers exactly matched the expected answer
+
+Answer 24
+The are no spelling errors
+The answers exactly matched the expected answer
+
+Answer 25
+The are no spelling errors
+The answers exactly matched the expected answer
+
+Answer 26
+The are no spelling errors
+The answers exactly matched the expected answer
+

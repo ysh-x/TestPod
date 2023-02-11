@@ -1,0 +1,3 @@
+Primary Color 	| #172d13
+Contrast Color 	| #d76f30
+Second Color	| #6bb77b

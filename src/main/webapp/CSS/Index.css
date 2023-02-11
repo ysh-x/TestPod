@@ -1,0 +1,71 @@
+@charset "UTF-8";
+
+* {
+	@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+	font-family: 'Roboto', sans-serif;
+}
+
+body{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+	background-image: url("../Assets/Wallpaper.png");
+	background-repeat: no-repeat;
+  	background-size: cover;
+}
+
+.header {
+	display:flex;
+	flex-direction:row;
+	background-color: #fdfd66;
+	
+}
+.logo {
+	width: 5vw;
+	display: inline; 
+	padding:0.1em;
+	margin-left: 0.5em;	
+}
+
+.logo_text {
+	padding:0.2em;
+	margin-top: 0.5em;	
+	font-size: 2em;
+	font-weight:1000;
+}
+
+.login_btn {
+	margin-left: auto;
+	width:8vw;
+	background-color: #fff;
+	text-decoration: none;
+	font-size: 1.5em;
+	text-align: center;
+	padding: 1em;
+	padding-bottom:0.2em;
+	font-weight:1000;
+	background-color:#2568fb;
+	color: #ffffff;
+}
+
+.container {
+	display:flex;
+	flex-direction:column;
+	margin: 2em;
+}
+
+h2 {
+	font-size: 2em;
+	font-weight: 800;
+}
+
+p {
+	width: 60vw;
+	text-align: justify;
+	font-size: 1.6em;
+	line-height: 1.5;
+}
+
+em {
+	font-weight: 900;
+}
