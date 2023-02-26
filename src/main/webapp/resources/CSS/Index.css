@@ -1,0 +1,67 @@
+@charset "UTF-8";
+
+* {
+	font-family: 'Helvetica', sans-serif;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background-image: url("../Assets/Wallpaper.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.header {
+	display: flex;
+	flex-direction: row;
+	background-color: #fdfd66;
+	height: 10vh;
+}
+
+.logo_text {
+	padding: 0.2em;
+	margin: 0.5em;
+	font-size: 2em;
+	font-weight: 1000;
+}
+
+.nav_button {
+	margin-left: auto;
+	width: 10vw;
+	text-decoration: none;
+	font-size: 1.2em;
+	text-align: center;
+	padding: 0.4em;
+	padding-top: 3vh;
+	font-weight: 1000;
+	background-color: #2568fb;
+	color: #ffffff;
+}
+
+.nav_btn:hover {
+	opacity: 60%;
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+	margin: 2em;
+}
+
+h2 {
+	font-size: 2em;
+	font-weight: 800;
+}
+
+p {
+	width: 60vw;
+	text-align: justify;
+	font-size: 1.5em;
+	line-height: 1.2;
+}
+
+em {
+	font-weight: 900;
+}

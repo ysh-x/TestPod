@@ -23,12 +23,13 @@ public class NLPFileGenerate {
 		answerCount = NB.getAnswerCount();
 
 
-		String loc = "./lib/files/" + examID + ".txt";
+		String loc = "/home/ysh-mi/MajorProjects/TestPod/lib/files" + examID + ".txt";
 		@SuppressWarnings("unused")
 		File f0 = new File(loc);
-
+		f0.createNewFile();
+		
 		FileWriter fw = new FileWriter(loc);
-
+		
 		String numberOfQuestionS = String.valueOf(numberOfQuestions);
 
 		fw.write(numberOfQuestionS);
@@ -54,6 +55,7 @@ public class NLPFileGenerate {
 			fw.write(temp);
 		}
 		fw.write("EOS\n");
+		fw.flush();
 		fw.close();
 
 	}

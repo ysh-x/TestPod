@@ -1,0 +1,186 @@
+@charset "UTF-8";
+
+* {
+	font-family: 'Helvetica', sans-serif;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.header {
+	display: flex;
+	flex-direction: row;
+	background-color: #fdfd66;
+	height: max-content;
+	padding: 0.3em;
+}
+
+.logo_text {
+	padding: 0.2em;
+	margin: 0.5em;
+	font-size: 2em;
+	font-weight: 1000;
+	margin-right: 70vw;
+	font-size: 2em;
+}
+
+.nav_btn {
+	margin: 0.5em;
+	margin-top: 2vh;
+	width: max-content;
+	text-decoration: none;
+	font-size: 1.2em;
+	padding: 0.6em;
+	font-weight: 600;
+	background-color: #2568fb;
+	color: #ffffff;
+	border-radius: 5px;
+	height: max-content;
+}
+
+.nav_btn:hover {
+	background-color: #3D3846;
+	color:#DDD;
+}
+
+.container {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin: 0.5em;
+}
+
+.login_form {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: 0.4em;
+	background-color: #FAFAFA;
+	width: 35vw;
+	height: 50vh;
+	padding: 0.8em;
+	border-radius: 5px;
+}
+
+.logo_out {
+	font-size: 2em;
+	padding: 0.4em;
+	width: max-width;
+	font-weight: 1000;
+}
+
+input, textarea {
+	font-size: 1.2em;
+	padding: 0.4em;
+	margin: 0.5em;
+	font-weight: 500;
+	width: 80vw;
+	border: none;
+	background-color: #FAFAFA;
+	border-bottom: solid 1px #ddd;
+}
+
+textarea {
+	resize: none;
+}
+
+button {
+	width: 50vw;
+	text-decoration:none;
+	padding: 0.4em;
+	margin: auto;
+	font-weight: 800;
+	font-size: 1.2em;
+	background-color: #2568fb;
+	color: #fff;
+	border: none;
+	text-align:center;
+}
+
+button:hover {
+	opacity: 75%;
+}
+.anchor_button {
+	width: 50vw;
+	text-decoration:none;
+	padding: 0.4em;
+	margin: auto;
+	font-weight: 800;
+	font-size: 1.2em;
+	background-color: #2568fb;
+	color: #fff;
+	border: none;
+	text-align:center;
+}
+
+.finalBtn{
+	width: 80vw;
+	padding: 0.8em;
+	margin: auto;
+	font-weight: 800;
+	font-size: 1.2em;
+	background-color: #2568fb;
+	color: #fff;
+	border: none;
+}
+
+.finalBtn:hover {
+	opacity: 75%;
+}
+
+.card_header {
+	margin-left: 1vw;
+	font-size: 1.8em;
+	color: #5A5A5A;
+}
+
+.card {
+	display: flex;
+	flex-direction: column;
+	width: 95vw;
+	margin: 0.5em;
+	background-color: #FAFAFA;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	padding: 1em;
+}
+
+.desc {
+	line-height: 0.2;
+	margin-left: 1vw;
+	padding: 0.2em;
+	margin: 0.4em;
+	font-size: 1.2em;
+	font-weight: 700;
+}
+
+.examdetails {
+	line-height: 1.2;
+    padding: 0.2em;
+    margin: 0.2em;
+    margin-left: 0.4em;
+    font-size: 1.4em;
+    font-weight: 500;
+}
+
+table, th, td {
+	margin: 1em;
+	width: 90vw;
+	border: 0.6px solid #ddd;
+	border-collapse: collapse;
+	text-align: left;
+	padding: 0.4em;
+	font-size: 1.1em;
+}
+table {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+p {
+	display: block;
+	font-weight: 800;
+	text-align: center;
+	padding: 0.8em;
+}
